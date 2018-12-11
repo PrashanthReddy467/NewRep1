@@ -93,7 +93,7 @@
          </RequestControl>
          <sch:InquiryParam>
          <InquiryParam>
-           <tcrmParam name= "PartyId">${Properties#PartyId}</tcrmParam>
+           <tcrmParam name= "PartyId">11111</tcrmParam>
       <tcrmParam name= "PartyType">O</tcrmParam>
            <tcrmParam name= "InquiryLevel">4</tcrmParam>
          </sch:InquiryParam>
